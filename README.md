@@ -2,7 +2,7 @@
 
 ## Download links
 
-Videos: [videos.zip](https://github.com/georg3tom/RoadTextVQA.git)\
+Videos: [videos.zip](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/videos.zip)\
 Train: [train.json](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/train.json)\
 Val: [val.json](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/val.json)\
 Test: [test.json](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/test.json)\
