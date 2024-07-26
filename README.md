@@ -1,6 +1,7 @@
 # RoadTextVQA
 
 # Ground Truth Format
+
 ```json
 {
   "dataset_name": "RoadTextVQA",
@@ -8,7 +9,7 @@
   "data": [
     {
       "questionId": 6, // Unique identifier for each question
-      "question": "What is the name of the shop that is seen before the Gregorys coffee, on the same side?", // The question text
+      "question": "What is the name of the shop that is seen before the Gregorys coffee, on the same side?", // The question string
       "answer": ["cava"], // List of possible answers
       "video": "19.mp4", // Filename of the video clip
       "videoId": 21, // Unique identifier for each video
@@ -22,19 +23,21 @@
 ## Download Links
 
 ### Annotations
-- Train: [train.json](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/train.json) 
-- Val: [val.json](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/val.json) 
-- Test: [test.json](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/test.json) 
 
+- Train: [train.json](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/train.json)
+- Val: [val.json](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/val.json)
+- Test: [test.json](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/test.json)
 
 ### Videos
-- Videos: [videos.zip](https://github.com/georg3tom/RoadTextVQA.git)
+
+- Videos: [videos.zip](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/videos.zip)
 
 ### OCR
+
 - OCR: [ocr.zip](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/ocr.zip)
 
-
 ## Citation
+
 ```
 @inproceedings{tom2023reading,
   title={Reading Between the Lanes: Text VideoQA on the Road},
