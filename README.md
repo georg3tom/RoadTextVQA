@@ -28,13 +28,27 @@
 - Val: [val.json](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/val.json)
 - Test: [test.json](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/test.json)
 
+```bash
+wget http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/train.json
+wget http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/val.json
+wget http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/test.json
+```
+
 ### Videos
 
 - Videos: [videos.zip](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/videos.zip)
 
+```bash
+wget http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/videos.zip
+```
+
 ### OCR
 
 - OCR: [ocr.zip](http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/ocr.zip)
+
+```bash
+wget http://cvit.iiit.ac.in/images/datasets/RoadTextVQA/ocr.zip
+```
 
 ## Citation
 
